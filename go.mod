@@ -1,4 +1,4 @@
-module github.com/GoFeGroup/gordp
+module github.com/zhanghanke/gordp
 
 go 1.19
 
