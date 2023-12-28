@@ -8,8 +8,6 @@ import (
 	"github.com/GoFeGroup/gordp/core"
 )
 
-import "C"
-
 type Option struct {
 	Top         int    `json:"top"`
 	Left        int    `json:"left"`
